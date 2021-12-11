@@ -1,0 +1,38 @@
+{
+    "name": "Cactus",
+    "symbol": "",
+    "description": "First Photography Launch! Botanical Gardens",
+    "image": "0.png",
+    "attributes": [
+        {
+          "trait_type": "medium",
+          "value": "photography"
+        },
+        {
+          "trait_type": "plant type",
+          "value": "cactus"
+       },
+       {
+          "trait_type": "year",
+          "value": "2019"
+        }
+      ],
+    "collection": {
+        "name": "Botanical Garden",
+        "family": "JanaeAneise Photography"
+     },
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "3cwUVpdr6MbEbjssCWfNrrnDYea7SgSNXdbL7erJDQuW",
+          "share": 100
+        }
+      ]
+    }
+}
